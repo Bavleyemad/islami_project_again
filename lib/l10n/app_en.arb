@@ -1,0 +1,20 @@
+{
+"appTitle": "Islami",
+ "chapterTitle": "chapter Title",
+  "quranTap": "Quran",
+  "radioTap": "Radio",
+  "hadethTap": "Hadeth",
+  "tasbehTap": "Mention",
+  "hadethNum": "Hadeth_Num",
+  "islami": "Islamic",
+  "hadeth": "Hadith",
+  "sebha": "Sebha",
+  "radio": "Radio",
+  "settings": "Settings",
+  "numberOfTheAyat": "Number of ayat",
+ "language": "language",
+ "theme": "Theme",
+ "dark": "Dark",
+ "light": "Light",
+ "numsOfTasbeh": "NumsOfTasbeh"
+}
